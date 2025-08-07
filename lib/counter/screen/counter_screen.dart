@@ -36,6 +36,7 @@ class _CounterScreenState extends State<CounterScreen> {
                 },
                 icon: Icon(Icons.restart_alt, color: Colors.white, size: 24),
               ),
+              /// bu icon lar ning vazifasi odamlarga xizmat ko'rsatish
             ],
           ),
           SizedBox(height: 200),
